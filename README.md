@@ -2,6 +2,14 @@
 pe，lib，obj file analysis，obj file extracting.
 functions for pack WINDOWS kernel mode module(driver)
 
+2 license you must choice 1:
+
+gnu 3.0 license(LICENSE).
+
+or
+
+coderebe team license(codereba license):
+
 Copyright (c) 2010-2050, pe-master develop team(simple_ai@outlook.com).All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met.
